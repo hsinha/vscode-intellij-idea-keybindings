@@ -1261,7 +1261,7 @@
             {
                 "key": "ctrl+t",
                 "mac": "cmd+t",
-                "command": "workbench.action.git.sync",
+                "command": "git.sync",
                 "intellij": "Update project from VCS"
             },
             /*
